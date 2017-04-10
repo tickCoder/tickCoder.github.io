@@ -1,2 +1,0 @@
-# tickCoder.github.io
-tickCoder
